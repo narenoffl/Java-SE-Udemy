@@ -1,0 +1,6 @@
+#Laptop
+#Sun Jan 16 16:33:54 IST 2022
+Brand=Dell
+Processor=i7
+OS=Windows 10
+Model=Vostro
